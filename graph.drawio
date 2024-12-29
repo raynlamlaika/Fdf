@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="CrcvmWy296lUy8xZDgUL">
-    <mxGraphModel dx="1444" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,23 @@
         </mxCell>
         <mxCell id="P0M0HN-WFf6LuywKItiU-4" value="this is exactly what COCOA is&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1380" y="190" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P0M0HN-WFf6LuywKItiU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="P0M0HN-WFf6LuywKItiU-6" target="GG3O4HQHpA-UjuzGiAY_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0M0HN-WFf6LuywKItiU-6" value="by the way&amp;nbsp;you can use the Codam provided zip which is a Linux compatible MLX version" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-110" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P0M0HN-WFf6LuywKItiU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.137;entryY=0.987;entryDx=0;entryDy=0;curved=1;entryPerimeter=0;" edge="1" parent="1" source="P0M0HN-WFf6LuywKItiU-8" target="GG3O4HQHpA-UjuzGiAY_-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="194" />
+              <mxPoint x="834" y="194" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P0M0HN-WFf6LuywKItiU-8" value="https://harm-smits.github.io/42docs/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="220" width="220" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
