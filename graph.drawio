@@ -57,6 +57,9 @@
         <mxCell id="P0M0HN-WFf6LuywKItiU-8" value="https://harm-smits.github.io/42docs/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="220" width="220" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="P0M0HN-WFf6LuywKItiU-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;line generation algos&lt;/h1&gt;&lt;p&gt;the hole project name is FdF (fil de fer) donc en peut avoir des fil pour conecte hhhh&lt;/p&gt;&lt;p&gt;so in this project we will need in conecting algo to conect our cordenate data so the first algo the we gonna try with it is&amp;nbsp;&lt;/p&gt;&lt;p&gt;DDA(digital differential analyzer):&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="240" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
