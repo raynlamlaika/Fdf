@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="26.0.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="CrcvmWy296lUy8xZDgUL">
-    <mxGraphModel dx="1150" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GG3O4HQHpA-UjuzGiAY_-1" value="FdF" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+        <mxCell id="GG3O4HQHpA-UjuzGiAY_-1" value="FdF" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="1" vertex="1">
           <mxGeometry x="374" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GG3O4HQHpA-UjuzGiAY_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="GG3O4HQHpA-UjuzGiAY_-4" target="GG3O4HQHpA-UjuzGiAY_-1">
+        <mxCell id="GG3O4HQHpA-UjuzGiAY_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="GG3O4HQHpA-UjuzGiAY_-4" target="GG3O4HQHpA-UjuzGiAY_-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GG3O4HQHpA-UjuzGiAY_-4" value="isometric projection: is in way to visually representing three-dimensional object" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GG3O4HQHpA-UjuzGiAY_-4" value="isometric projection: is in way to visually representing three-dimensional object" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GG3O4HQHpA-UjuzGiAY_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.133;exitDx=0;exitDy=0;curved=1;exitPerimeter=0;" edge="1" parent="1" source="GG3O4HQHpA-UjuzGiAY_-7">
+        <mxCell id="GG3O4HQHpA-UjuzGiAY_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.133;exitDx=0;exitDy=0;curved=1;exitPerimeter=0;" parent="1" source="GG3O4HQHpA-UjuzGiAY_-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790" y="9.97" as="sourcePoint" />
             <mxPoint x="459.9999999999998" y="20.004482758620696" as="targetPoint" />
@@ -22,8 +22,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GG3O4HQHpA-UjuzGiAY_-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Minilibix&lt;/h1&gt;&lt;div&gt;is a tiny graphics library which allows you to do the most basic things for rendering something in screens without any knowledge of X-Window and Cocoa. It provides so-called simple window creation, a questionable drawing tool, half-ass image functions and a weird event management system.&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GG3O4HQHpA-UjuzGiAY_-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Minilibix&lt;/h1&gt;&lt;div&gt;is a tiny graphics library which allows you to do the most basic things for rendering something in screens without any knowledge of X-Window and Cocoa. It provides so-called simple window creation, a questionable drawing tool, half-ass image functions and a weird event management system.&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="20" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="P0M0HN-WFf6LuywKItiU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P0M0HN-WFf6LuywKItiU-1" target="GG3O4HQHpA-UjuzGiAY_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0M0HN-WFf6LuywKItiU-1" value="the Xwindow is : is in a network-oriented graphical systeme for unix, for example is the timeViewer," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="170" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P0M0HN-WFf6LuywKItiU-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;framework&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Nunito, sans-serif; font-size: 18px; letter-spacing: 0.162px; background-color: rgb(19, 20, 23);&quot;&gt;A framework is like a structure that provides a base for the application development process. With the help of a framework, you can avoid writing everything from scratch&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="20" width="550" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="P0M0HN-WFf6LuywKItiU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="P0M0HN-WFf6LuywKItiU-4" target="P0M0HN-WFf6LuywKItiU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0M0HN-WFf6LuywKItiU-4" value="this is exactly what COCOA is&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="190" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
