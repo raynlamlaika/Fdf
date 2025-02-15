@@ -6,7 +6,7 @@
 /*   By: rlamlaik <rlamlaik@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/06 20:44:32 by rlamlaik          #+#    #+#             */
-/*   Updated: 2025/02/06 22:07:26 by rlamlaik         ###   ########.fr       */
+/*   Updated: 2025/02/11 11:25:24 by rlamlaik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,6 +22,14 @@
 # ifndef BUFFER_SIZE
 #  define BUFFER_SIZE 3
 # endif
+
+typedef struct t_data
+{
+	int		data;
+	int		height;
+	
+}			t_data;
+
 
 char	*get_next_line(int fd);
 char	*ft_strjoin(char const *s1, char const *s2);

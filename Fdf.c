@@ -33,13 +33,7 @@ void intoarray(char** buffer)
 	while (buffer[i])
 	{
 		printf("buffer :%s\n", buffer[i]);
-		char *spl = ft_split(buffer[i],' ');
-		int j = 0;
-		while (spl[j])
-		{
-			printf("%s");
-		}
-
+		buffer[i] = ft_split(buffer[i], ' ');
 		i++;
 	}
 
@@ -59,11 +53,5 @@ int main(int ac, char**av, char**ev)
 		return(write(2,"error in the map string\n", 24), 0);
 	mmap = ft_split(buffer, '\n');
 	intoarray(mmap);
-	
-
-
-
-
-
 	return (0);
 }
